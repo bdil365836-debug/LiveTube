@@ -104,4 +104,4 @@ This app plays and downloads YouTube content through unofficial extraction of st
 
 ## License
 
-See the `LICENSE` file, if present. This project's public code is provided as-is for personal use.
+See the `LICENSE` file, if present. This project's public code is provided as-is for personal use
